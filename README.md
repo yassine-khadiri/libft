@@ -1,1 +1,1 @@
-# libft_42
+# libft
